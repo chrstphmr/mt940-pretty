@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>jameica.example</name>
+	<name>MT940prettyUmsatzExporter</name>
 	<comment></comment>
 	<projects>
+		<project>hibiscus</project>
 		<project>jameica</project>
 	</projects>
 	<buildSpec>
